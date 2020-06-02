@@ -42,8 +42,11 @@
   1. In my case i just rename 3 files *(Note: this will be done after scml->kanim)* 
  
    __*pumpGas_red.png*__
+   
    __*pumpGas_red_anim.bytes*__
+   
    __*pumpGas_red_build_bytes*__
+   
    
 1. __*scml -> kanim*__ in your __*Windows PowerShell*__ type in:
  ```
@@ -54,8 +57,11 @@
 1. Open that directory then drag the 3 files 
  
    __*pumpGas_red.png*__
+   
    __*pumpGas_red_anim.bytes*__
+   
    __*pumpGas_red_build_bytes*__
+   
    
 1. if your anim string you can call it __*pumpGas_red_kanim*__
 1. Enjoy!
