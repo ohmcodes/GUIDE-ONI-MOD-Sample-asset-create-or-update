@@ -44,7 +44,8 @@
  ```
   kanila-cli.exe kanim pumpGas.scml -o C:\Users\<your-user>\Desktop\<your-pump>\editoutput\
  ```
-1. Make a folder to your solution __*anim/assets/<your-pump-folder/*__ Note: make sure you made the directory inside VS not in Windows
+### VS
+1. Make a folder to your solution __*anim/assets/<your-pump-folder>/*__ Note: make sure you made the directory inside VS not in Windows
 1. Open that directory then drag the 3 files __*pumpGas_red.png pumpGas_red_anim.bytes pumpGas_red_build_bytes*__
 1. if your anim string you can call it __*pumpGas_red_kanim*__
 1. Enjoy!
