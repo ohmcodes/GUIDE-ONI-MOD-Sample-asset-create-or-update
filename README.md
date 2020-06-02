@@ -1,12 +1,12 @@
-# GUIDE-ONI-MOD-Sample-asset-create-or-update
+# GUIDE ONI MOD Sample asset create or update
+
+## Oxygen Not Included MOD change asset or even create new building or animation basic guide
 
 ## Requirements:
   * [uTinyRipper](https://github.com/mafaca/UtinyRipper)
   * [kanimal SE (KSE)](https://github.com/skairunner/kanimal-SE)
   * [Spriter Pro](https://brashmonkey.com/download-spriter-pro/)
   * Working OS (Windows 10)
-  
-### Guide
 
 #### Using uTinyRipper
 1. Create a folder "ONI Assets" (optional or whatever you want) 
