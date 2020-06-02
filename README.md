@@ -31,7 +31,7 @@
   1. Press windows key and search for __*Windows PowerShell*__ run as administrator (optional but better)
   1. Locate your kanimal folder in my case __*C:\Users\<your-user>\Desktop\<your-kanimal-folder>*__
   1. if you are stuck, you can check [kanimal guide](https://github.com/skairunner/kanimal-SE#kanim--scml)
-  1. go you your __*pump*__ folder and get the dir location by pressing the dir tab and it will show you the full dir and copy it
+  1. go you your __*pump*__ folder and get the dir location by pressing the dir bar and it will show you the full dir and copy it
   1. in your Windows PowerShell type in: NOTE: change __*<your-user>*__ and __*<your-pump>*__
   ```
   .\kanimal-cli.exe scml C:\Users\<your-user>\Desktop\<your-pump>\pumpgas_0.png C:\Users\<your-user>\Desktop\<your-pump>\pumpgas_anim.bytes C:\Users\<your-user>\Desktop\<your-pump>\pumpgas_build.bytes -o C:\Users\<your-user>\Desktop\<your-pump>\output\
@@ -59,7 +59,7 @@
    
 1. __*scml -> kanim*__ in your __*Windows PowerShell*__ type in:
  ```
-  .\kanila-cli.exe kanim pumpGas.scml -o C:\Users\<your-user>\Desktop\<your-pump>\editoutput\
+  .\kanila-cli.exe kanim pumpGas.scml -o C:\Users\<your-user>\Desktop\<your-pump>\editedoutput\
  ```
 ### Visual Studio
 1. Make a folder to your solution __*anim/assets/<your-pump-folder>/*__ Note: make sure you made the directory inside VS not in Windows
