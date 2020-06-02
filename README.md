@@ -1,6 +1,6 @@
 # GUIDE ONI MOD Sample asset create or update
 
-## Oxygen Not Included MOD change asset or even create new building or animation basic guide
+#### Oxygen Not Included MOD change asset or create new building or animation basic guide
 
 ## Requirements:
   * [uTinyRipper](https://github.com/mafaca/UtinyRipper)
