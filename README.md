@@ -41,11 +41,11 @@
   1. if you just want to change the skin you can skip renaming all files inside it but its better to rename everything to avoid conflict
   1. In my case i just rename 3 files *(Note: this will be done after scml->kanim)* 
  
-   __*pumpGas_red.png*__
-   
-   __*pumpGas_red_anim.bytes*__
-   
-   __*pumpGas_red_build_bytes*__
+    __*pumpGas_red.png*__
+
+    __*pumpGas_red_anim.bytes*__
+
+    __*pumpGas_red_build_bytes*__
    
    
 1. __*scml -> kanim*__ in your __*Windows PowerShell*__ type in:
