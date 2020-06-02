@@ -45,6 +45,7 @@
   
   ![tut3](/33.PNG)
   
+  1. from here on you can edit it with your image editor like photoshop
   1. if you have Spriter you can open the pumpGas.scml and if you want to change some animation
   1. if you just want to change the skin you can skip renaming all files inside it but its better to rename everything to avoid conflict
   1. In my case i just rename 3 files *(Note: this will be done after scml->kanim)* 
@@ -71,7 +72,7 @@
    __*pumpGas_red_build_bytes*__
    
    
-1. if your anim string you can call it __*pumpGas_red_kanim*__
+1. your should be string anim = __*pumpGas_red_kanim*_
 1. Enjoy!
   
   
