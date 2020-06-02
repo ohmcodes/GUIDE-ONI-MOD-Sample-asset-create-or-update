@@ -39,7 +39,7 @@
   1. if you don't set __*-o*__ or output dir it will auto generate in your kanimal folder where kanimal-cli.exe located
   1. after you hit enter if will look like this:
   
-  
+  ![tut1](/22.PNG)
   
   1. It will fragmented to multiple files or .png
   1. if you have Spriter you can open the pumpGas.scml and if you want to change some animation
