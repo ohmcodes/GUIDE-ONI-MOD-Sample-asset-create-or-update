@@ -34,8 +34,13 @@
   1. go you your __*pump*__ folder and get the dir location by pressing the dir tab and it will show you the full dir and copy it
   1. in your Windows PowerShell type in: NOTE: change __*<your-user>*__ and __*<your-pump>*__
   ```
-  kanimal-cli.exe scml C:\Users\<your-user>\Desktop\<your-pump>\pumpgas_0.png C:\Users\<your-user>\Desktop\<your-pump>\pumpgas_anim.bytes C:\Users\<your-user>\Desktop\<your-pump>\pumpgas_build.bytes -o C:\Users\<your-user>\Desktop\<your-pump>\output\
+  .\kanimal-cli.exe scml C:\Users\<your-user>\Desktop\<your-pump>\pumpgas_0.png C:\Users\<your-user>\Desktop\<your-pump>\pumpgas_anim.bytes C:\Users\<your-user>\Desktop\<your-pump>\pumpgas_build.bytes -o C:\Users\<your-user>\Desktop\<your-pump>\output\
   ```
+  1. if you don't set __*-o*__ or output dir it will auto generate in your kanimal folder where kanimal-cli.exe located
+  1. after you hit enter if will look like this:
+  
+  ![tut1](/22.PNG)
+  
   1. It will fragmented to multiple files or .png
   1. if you have Spriter you can open the pumpGas.scml and if you want to change some animation
   1. if you just want to change the skin you can skip renaming all files inside it but its better to rename everything to avoid conflict
@@ -50,7 +55,7 @@
    
 1. __*scml -> kanim*__ in your __*Windows PowerShell*__ type in:
  ```
-  kanila-cli.exe kanim pumpGas.scml -o C:\Users\<your-user>\Desktop\<your-pump>\editoutput\
+  .\kanila-cli.exe kanim pumpGas.scml -o C:\Users\<your-user>\Desktop\<your-pump>\editoutput\
  ```
 ### Visual Studio
 1. Make a folder to your solution __*anim/assets/<your-pump-folder>/*__ Note: make sure you made the directory inside VS not in Windows
