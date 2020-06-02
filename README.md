@@ -29,8 +29,13 @@
   1. it is safe to copy it to a new folder
   1. Open __*Texture2d*__ and find __*pumpgas_0.png*__ then copy it to your folder with your __*bytes*__ file
   1. Press windows key and search for __*Windows PowerShell*__ run as administrator (optional but better)
-  1. Locate your kanimal folder in my case __*C:\Users\<youruser>\Desktop\<yourkanimalfolder>*__
-  1. if you are stuck you can see [kanimal guide](https://github.com/skairunner/kanimal-SE#kanim--scml)
+  1. Locate your kanimal folder in my case __*C:\Users\<your-user>\Desktop\<your-kanimal-folder>*__
+  1. if you are stuck you check [kanimal guide](https://github.com/skairunner/kanimal-SE#kanim--scml)
+  1. go you your __*pump*__ folder and get the dir location by pressing the dir tab and it will show you the full dir and copy it
+  1. in your Windows PowerShell type in: 
+  ```
+  kanimal-cli.exe scml C:\Users\__<your-user>__\Desktop\__<your-pump>__\pumpgas_0.png C:\Users\__<your-user>__\Desktop\__<your-pump>__\pumpgas_anim.bytes C:\Users\__<your-user>__\Desktop\__<your-pump>__\pumpgas_build.bytes
+  ```
   
   
   
