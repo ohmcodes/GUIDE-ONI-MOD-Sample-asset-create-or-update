@@ -40,9 +40,11 @@
   1. if you have Spriter you can open the pumpGas.scml and if you want to change some animation
   1. if you just want to change the skin you can skip renaming all files inside it but its better to rename everything to avoid conflict
   1. In my case i just rename 3 files *(Note: this will be done after scml->kanim)* 
+ 
    __*pumpGas_red.png*__
    __*pumpGas_red_anim.bytes*__
    __*pumpGas_red_build_bytes*__
+   
 1. __*scml -> kanim*__ in your __*Windows PowerShell*__ type in:
  ```
   kanila-cli.exe kanim pumpGas.scml -o C:\Users\<your-user>\Desktop\<your-pump>\editoutput\
@@ -50,9 +52,11 @@
 ### Visual Studio
 1. Make a folder to your solution __*anim/assets/<your-pump-folder>/*__ Note: make sure you made the directory inside VS not in Windows
 1. Open that directory then drag the 3 files 
+ 
    __*pumpGas_red.png*__
    __*pumpGas_red_anim.bytes*__
    __*pumpGas_red_build_bytes*__
+   
 1. if your anim string you can call it __*pumpGas_red_kanim*__
 1. Enjoy!
   
