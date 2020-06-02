@@ -72,7 +72,7 @@
    __*pumpGas_red_build_bytes*__
    
    
-1. your should be string anim = __*pumpGas_red_kanim*_
+1. your should be string anim = __*pumpGas_red_kanim*__
 1. Enjoy!
   
   
