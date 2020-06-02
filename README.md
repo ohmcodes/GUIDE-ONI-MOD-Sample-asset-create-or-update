@@ -59,7 +59,7 @@
    
 1. __*scml -> kanim*__ in your __*Windows PowerShell*__ type in:
  ```
-  .\kanila-cli.exe kanim pumpGas.scml -o C:\Users\<your-user>\Desktop\<your-pump>\editedoutput\
+  .\kanimal-cli.exe kanim pumpGas.scml -o C:\Users\<your-user>\Desktop\<your-pump>\editedoutput\
  ```
 ### Visual Studio
 1. Make a folder to your solution anim/assets/<your-pump-folder>/ Note: make sure you made the directory inside VS not in Windows
