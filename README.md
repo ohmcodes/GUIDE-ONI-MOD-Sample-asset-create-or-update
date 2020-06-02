@@ -30,7 +30,7 @@
   1. Open __*Texture2d*__ and find __*pumpgas_0.png*__ then copy it to your folder with your __*bytes*__ file
   1. Press windows key and search for __*Windows PowerShell*__ run as administrator (optional but better)
   1. Locate your kanimal folder in my case __*C:\Users\<your-user>\Desktop\<your-kanimal-folder>*__
-  1. if you are stuck you check [kanimal guide](https://github.com/skairunner/kanimal-SE#kanim--scml)
+  1. if you are stuck, you can check [kanimal guide](https://github.com/skairunner/kanimal-SE#kanim--scml)
   1. go you your __*pump*__ folder and get the dir location by pressing the dir tab and it will show you the full dir and copy it
   1. in your Windows PowerShell type in: NOTE: change __*<your-user>*__ and __*<your-pump>*__
   ```
@@ -39,7 +39,7 @@
   1. It will fragmented to multiple files or .png
   1. if you have Spriter you can open the pumpGas.scml and if you want to change some animation
   1. if you just want to change the skin you can skip renaming all files inside it but its better to rename everything to avoid conflict
-  1. In my case i just rename the 3 files generated after
+  1. In my case i just rename 3 files *(Note: this will be done after scml->kanim)* __*pumpGas_red.png pumpGas_red_anim.bytes pumpGas_red_build_bytes*__
 1. __*scml -> kanim*__ in your __*Windows PowerShell*__ type in:
  ```
   kanila-cli.exe kanim pumpGas.scml -o C:\Users\<your-user>\Desktop\<your-pump>\editoutput\
