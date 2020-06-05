@@ -50,11 +50,11 @@
   1. if you just want to change the skin you can skip renaming all files inside it but its better to rename everything to avoid conflict
   1. In my case i just rename 3 files *(Note: this will be done after scml->kanim)* 
  
-    __*pumpGas_red.png*__
+    pumpGas_red.png
 
-    __*pumpGas_red_anim.bytes*__
+    pumpGas_red_anim.bytes
 
-    __*pumpGas_red_build_bytes*__
+    pumpGas_red_build_bytes
    
    
 1. __*scml -> kanim*__ in your __*Windows PowerShell*__ type in:
@@ -65,11 +65,11 @@
 1. Make a folder to your solution anim/assets/<your-pump-folder>/ Note: make sure you made the directory inside VS not in Windows
 1. Open that directory then drag the 3 files 
  
-   __*pumpGas_red.png*__
+   pumpGas_red.png
    
-   __*pumpGas_red_anim.bytes*__
+   pumpGas_red_anim.bytes
    
-   __*pumpGas_red_build_bytes*__
+   pumpGas_red_build_bytes
    
    
 1. your anim string should be string anim = __*pumpGas_red_kanim*__
